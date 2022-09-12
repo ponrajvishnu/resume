@@ -1,0 +1,36 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #CCC;
+    padding: 2rem;
+}
+#head-content{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+#head-title{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+#head-content p{
+    margin-top: 1px;
+}
+#info-content{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+#info-content p{
+    margin: 5px;
+}
+.experience-content span{
+    font-weight: 600;
+}
+.experience-content p{
+    margin: 5px 1px;
+}
+.experience-content ul li{
+    line-height: 25px;
+}
